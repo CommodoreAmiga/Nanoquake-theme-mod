@@ -1,7 +1,8 @@
 # Nanoquake-theme-mod
 Optional add-on mod to Nanoquake
+https://github.com/Nanoquake/yquake2
 _________________________
-Place this mod to Nanoquake's \baseq2 folder
+Place this mod to Nanoquake's \baseq2 folder before launching game
 
 
 Changelog:
