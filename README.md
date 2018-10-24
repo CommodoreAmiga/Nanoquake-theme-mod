@@ -13,7 +13,7 @@ v11:
 - spawn point teleports with Nano logos
 - console background theme
 - game defaults to "spectator 1" mode at launch
-- added wsad controls
+- added wasd controls
 - set always run to 1
 - binded p key for both "spectator 0" and "pay_nano"
 - binded b key for "nano_balance"
