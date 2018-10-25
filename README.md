@@ -21,3 +21,6 @@ v11:
 
 v12:
 - added instructions to intro demo
+
+v13:
+- removed spectator mode
