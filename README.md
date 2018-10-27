@@ -24,3 +24,6 @@ v12:
 
 v13:
 - removed spectator mode
+
+v14:
+- bug fix
