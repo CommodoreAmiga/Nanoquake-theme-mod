@@ -27,3 +27,7 @@ v13:
 
 v14:
 - bug fix
+
+v15:
+- small tweak to key bindings
+- changed default resolution 720p and OpenGL 3.2
