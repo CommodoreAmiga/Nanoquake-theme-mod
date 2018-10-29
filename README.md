@@ -31,3 +31,6 @@ v14:
 v15:
 - small tweak to key bindings
 - changed default resolution 720p and OpenGL 3.2
+
+v16:
+- if name is default "Player" then start at Player Setting Menu, if else then start intro demo.
