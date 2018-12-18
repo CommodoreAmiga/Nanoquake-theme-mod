@@ -16,6 +16,6 @@ __Changelog:__
 - set always run to 1
 - binded p key for "pay_nano"
 - binded b key for "nano_balance"
-- added Nanoquake server to address book
+- added Nanoquake servers to address book
 - changed default resolution 720p and OpenGL 3.2
 - if name is default "Player" then start at Player Setting Menu, if else then start intro demo
